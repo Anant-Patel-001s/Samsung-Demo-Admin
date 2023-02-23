@@ -1,0 +1,15 @@
+import React from 'react'
+
+const Shop = () => {
+    return (
+        <div>
+            <div  className='d-flex shop'>
+                <div className=''>
+
+                </div>
+            </div>
+        </div>
+    )
+}
+
+export default Shop
